@@ -9,7 +9,7 @@ name: rc blog
 description: old fashioned blog via github and jekyll
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/621908?v=3&s=460
+avatar: https://avatars2.githubusercontent.com/u/621908?v=3&s=64
 
 #
 # Flags below are optional
@@ -47,7 +47,7 @@ url: https://netrc.github.io/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/jekyll-now"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: blog v4 (or5)!
 published: true
 ---

@@ -37,4 +37,4 @@ Come to think of it, it would have been great if the Nest did have a real wall p
  
 BTW, it’s a special lithium-ion battery – see the [iFix battery replacement](https://www.ifixit.com/Guide/Nest+Learning+Thermostat+2nd+Generation+Battery+Replacement/30626)
  
-BTW, if you install your Nest thermostat yourself, there's a [2-year warranty](https://nest.com/legal/warranty/thermostat/) on it
+BTW, if you install your Nest thermostat yourself, there's a [2-year warranty](https://nest.com/legal/warranty/thermostat/) on it.

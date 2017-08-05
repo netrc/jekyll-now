@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: Way Too Much Nest Battery Info
 ---
 _Some extended notes and description of Nest battery  and HVAC issues…_
 

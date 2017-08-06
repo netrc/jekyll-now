@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Grim Visag'd War
+published: true
 ---
  Chirstopher's Nolan's [Dunkirk](http://www.imdb.com/title/tt5013056/combined) is a masterpiece, best of the year. Two main points:
  
 ### Dun-ception
-Turn's out that Nolan's [Inception](http://www.imdb.com/title/tt1375666/combined) wasn't just a movie, but re-introduced a new way
+Turn's out that Nolan's [Inception](http://www.imdb.com/title/tt1375666/combined) wasn't just a movie, but re-introduced a new way to 
 frame story-telling, not with flash-backs, but with multi-track, multi-timescale story lines. That's sounds bizarre
 but it enables three different stories, with three different time-spans to be told and intercut in one linear narrative.
 In Inception, that was just a cute plot gimmick, weird and fun. Here it is the critical form of the movie, driving forward the
@@ -26,4 +27,4 @@ still, somehow, totally effective.
 This bravura and confident filmmaking makes the film strikingly compelling in all dimensions. 
 
 Meanwhile, disaster after disaster, breathtaking moments of Spitfire dogfights (that puts shame to Spielberg and Lucas),
-sand-swept and grey-skied dunes littered with bodies and lines of waiting soldiers as the fate of World War II unfolds. 
+sand-swept and grey-skied dunes littered with bodies and lines of waiting soldiers as the fate of World War II unfolds.

@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-## A New Post
 
 Seeing a bunch more discussion about the use of ad-blockers for news/content web sites. Here’s a good link with interesting data about [why people use ad-blockers](https://research.hubspot.com/reports/why-people-block-ads-and-what-it-means-for-marketers-and-advertisers)
  

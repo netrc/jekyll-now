@@ -41,8 +41,44 @@ XX removed; YY put in charge.
 
 Monument to Pulaski
 
+### Archibald Campbell
+
 Campbell continues... 
 
 ## The Civil War and the Blockade of The South
 
 Lincoln, blockade
+
+Lee builds out Fort Johnson, Fort Pulaski, impervious to cannons
+
+Meanwhile, back in Michigan, Roswell Campbell
+
+XX organized to take Savannah, Units from a b c d
+
+### The Battle For Fort Pulaski
+
+Ships, landing. 
+
+Parrot - rifled - cannons
+
+Bombardment and destruction of Fort
+
+Troops get over and take fort
+
+### Roswell Campbell
+
+Troops come back, and start to move on Savannah. Move on Confederate batteries in w island
+
+Roswell falls.
+
+Troops go on to take Savannah. 
+
+Roswell transported back to hospital just outside of Washington D.C.  Arlington House being converted to cemetary. Alexandria hospital, just south for recovery. 
+
+Roswell dies, buried in Alexandria National Cemetary
+
+Roswell is my xxx cousin - his father, Hosea Campbell ? was the brother of my great-6 grandfather, Welcome Campbell. 
+
+
+
+

@@ -75,10 +75,6 @@ Troops go on to take Savannah.
 
 Roswell transported back to hospital just outside of Washington D.C.  Arlington House being converted to cemetary. Alexandria hospital, just south for recovery. 
 
-Roswell dies, buried in Alexandria National Cemetary
+Roswell dies, [buried](https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=8071615) in [Alexandria National Cemetary](https://www.cem.va.gov/cems/nchp/alexandriava.asp) 
 
-Roswell is my xxx cousin - his father, Hosea Campbell ? was the brother of my great-6 grandfather, Welcome Campbell. 
-
-
-
-
+Roswell is my xxx cousin - his father, Hosea Campbell ? was the brother of my great-6 grandfather, Welcome Campbell.

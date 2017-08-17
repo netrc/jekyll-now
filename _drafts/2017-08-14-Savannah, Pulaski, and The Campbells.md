@@ -9,7 +9,7 @@ in '75-'76, most of the Revolutionary war centered in the northern colonies.
 
 After ? Howe called for a large force to control the southern colonies
 
-https://en.wikipedia.org/wiki/Southern_theater_of_the_American_Revolutionary_War
+[Southern Strategy](https://en.wikipedia.org/wiki/Southern_theater_of_the_American_Revolutionary_War)
 
 Needed to take the (only) major port cities Charleston and Savannah
 
@@ -17,9 +17,9 @@ Charleston.....
 
 Savannah....
 
-Lord ? Archibald Campbell put in charge of force. Arrived in New York....
+Archibald Campbell put in charge of force. Arrived in New York....
 
-https://en.wikipedia.org/wiki/Archibald_Campbell_(British_Army_officer,_born_1739)
+[Archibald Campbell](https://en.wikipedia.org/wiki/Archibald_Campbell_(British_Army_officer,_born_1739)
 
 https://en.wikipedia.org/wiki/Archibald_Campbell_(British_Army_officer,_born_1739)#/media/File:ArchibaldCampbell.jpg
 

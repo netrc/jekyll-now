@@ -7,7 +7,9 @@ Wow. Never heard so much criticism of a Star Wars movie so quickly. It tooks mon
 
 
 
-For me, the episode was pretty overwhelming, so much stuff crammed into the movie which was already 2-1/2 hours long. And with the ending of Luke's physical story along with knowing that Carrie Fisher would not be returning, it was all pretty sad.
+For me, the episode was pretty overwhelming, so much stuff crammed into the movie which was already 2-1/2 hours long. And with the ending of Luke's physical story along with knowing that Carrie Fisher would not be returning, it was all pretty sad. 
+
+Worst way to put it - much of the script decisions seemed to be based on how to subvert the fans expectations. OK, that's one way to go. No, I don't want a completely self-serving plot
 
 Random points.....
 

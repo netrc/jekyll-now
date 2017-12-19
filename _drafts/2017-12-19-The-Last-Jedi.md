@@ -9,7 +9,11 @@ Wow. Never heard so much criticism of a Star Wars movie so quickly. It tooks mon
 
 For me, the episode was pretty overwhelming, so much stuff crammed into the movie which was already 2-1/2 hours long. And with the ending of Luke's physical story along with knowing that Carrie Fisher would not be returning, it was all pretty sad.
 
-So, taking all this in to account,  
+Random points.....
+
+Casino - pretty much a waste of time. Note Williams music cue, and an homage to Wings. Oddly, didn't feel like the set or characters felt like Star Wars at all. And while the politics of the prequels was, in my opinion, purposefully adolescent, the "1%" attitudes were more intrusive here. At least I'd have liked to work in a reference to the Banking Clan as set up in the prequels.
+
+Porgs - No problem. From the trailer, I think we were all worried they'd be Chewie's new sidekick or something. But they're just set decoration, not a character or plot point (so far). Fine to have them around as the 'tribbles' of the Falcon.
 
 Phasma's death - better than how Boba Fett was treated. Phasma had a real fight and we even got a glimpse of the character  and the character's fear.
 

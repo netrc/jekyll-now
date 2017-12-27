@@ -1,23 +1,26 @@
 ---
 published: false
 ---
-Wow. Never heard so much criticism of a Star Wars movie so quickly. It tooks months for the hate against Episode 1 to surface, and 2 and 3 were (relatively) warmly received as being better. Nevertheless, I remember quite well the harsh takes against "Return Of The Jedi" for it's creaky script ("What I told you was true, from a certain point of view") and apparent emphasis of marketing over believability (ewoks). The IMDB user reviews will no doubt be updated, but the day after the preview showing, some thirty or more 1 or 2 star reviews (out of *10!*) were posted - [http://www.imdb.com/title/tt2527336/reviews](http://www.imdb.com/title/tt2527336/reviews)
+Wow. Never heard so much criticism of a Star Wars movie so quickly. It tooks months for the hate against Episode 1 to surface, and 2 and 3 were (relatively) warmly received as being better. Nevertheless, I also remember the harsh takes against "Return Of The Jedi" for it's creaky script ("What I told you was true, from a certain point of view") and apparent emphasis of marketing over believability (ewoks). The IMDB user reviews will no doubt be updated, but the day after the preview showing, some thirty or more 1 or 2 star reviews (out of *10!*) were posted - [http://www.imdb.com/title/tt2527336/reviews](http://www.imdb.com/title/tt2527336/reviews)
+
+IMHO - it's ok to like TLJ, and it's ok to hate it. I guess I have some experience with this as I am not a prequel-hater and so have to endure pitying remarks and blank stares when mentioning all the good stuff in III, II, and yes, I.
 
 **SPOILERS** **SPOILERS** **SPOILERS** **SPOILERS** **SPOILERS** **SPOILERS**
 
 
+For me, the first viewing was pretty overwhelming, so much stuff crammed into the movie which was already 2-1/2 hours long. And with the ending of Luke's physical story along with knowing that Carrie Fisher would not be returning, it was all pretty sad. After reading various posts, mostly negative, and after two more viewings, I'll say that the better parts of the film far outweigh the bad, and it's gets a lot easier to forgive the bad stuff.
 
-For me, the episode was pretty overwhelming, so much stuff crammed into the movie which was already 2-1/2 hours long. And with the ending of Luke's physical story along with knowing that Carrie Fisher would not be returning, it was all pretty sad. 
+
 
 Worst way to put it - much of the script decisions seemed to be based on how to subvert the fans expectations. OK, that's one way to go. No, I don't want a completely self-serving plot
 
 Random points.....
 
-Casino - pretty much a waste of time. Note Williams music cue, and an homage to Wings. Oddly, didn't feel like the set or characters felt like Star Wars at all. And while the politics of the prequels was, in my opinion, purposefully adolescent, the "1%" attitudes were more intrusive here. At least I'd have liked to work in a reference to the Banking Clan as set up in the prequels.
+Casino - yes a waste of time. Note Williams music cue, and an homage to Wings. Oddly, didn't feel like the set or characters felt like Star Wars at all. And while the politics of the prequels was, in my opinion, purposefully adolescent, the "1%" attitudes in TLJ were more intrusive. At least I'd have liked to work in a reference to the Banking Clan as set up in the prequels.
 
 Porgs - No problem. From the trailer, I think we were all worried they'd be Chewie's new sidekick or something. But they're just set decoration, not a character or plot point (so far). Fine to have them around as the 'tribbles' of the Falcon.
 
-Phasma's death - better than how Boba Fett was treated. Phasma had a real fight and we even got a glimpse of the character  and the character's fear.
+Phasma's death - I can understand those that thought Phasma got short shrift, but honestly the character got a lot better treatment than Boba Fett did in ROTJ -  Phasma had a real fight and we even got a glimpse of the character  and the character's fear.
 
 Poe - great. Note also nice to see great pilot skills.
 
@@ -36,7 +39,7 @@ medium - don't want to see GoT in space.
 
 Luke's ending - seriously, given Carrie's death, don't know why you just don't swap out the death's. Leia's sacrifice jolts Luke to come back; Luke comes back and reluctantly takes on the mantle. 
 
-Leia 'skywalking' - silly but very happy. My take: She was knocked unconscious, woke up, and force'd herself back. Almost makes sense. But emotionally very satisfying. And, in a way, important to finally show that the other Skywalker twin did indeed have some strong force powers.
+Leia 'skywalking' - silly but very happy. My take: She was knocked unconscious, woke up, and Force'd herself back. Almost makes sense but emotionally very satisfying. And, in a way, important to finally show that the other Skywalker twin did indeed have some strong force powers. Many of us have been waiting to see Leia's special Force powers for 30-some years.
 
 Snoke backstory - One thing to not care about Phasma backstory, but Snoke? Serkis and CGI were great. Now what? Wonderful move to subvert the expectations, but couldn't we have some sort of backstory?
 
@@ -50,6 +53,3 @@ Music - didn't hear much new here. Of course, the original Empire score blew the
 
 BTW, not sure why new Chewie is thinner and more well groomed that 'real' Chewie. And the new guy doesn't have the jerky quirkieness of the great Peter Mayhew. 
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

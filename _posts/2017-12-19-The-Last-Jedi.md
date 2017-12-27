@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Wow. Never heard so much criticism of a Star Wars movie so quickly. It took months for the hate against Episode 1 to surface, and 2 and 3 were (relatively) warmly received as being better. Nevertheless, I also remember the harsh takes against "Return Of The Jedi" for its creaky script ("What I told you was true, from a certain point of view") and apparent emphasis of marketing over believability (ewoks). The IMDB user reviews will no doubt be updated, but the day after the preview showing, some thirty or more 1 or 2 star reviews (out of *10!*) were posted - [http://www.imdb.com/title/tt2527336/reviews](http://www.imdb.com/title/tt2527336/reviews)
 

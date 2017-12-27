@@ -16,7 +16,7 @@ The problem of course, is that we're left with a gaping hole in how to handle Ep
 
 The odd thing about TLJ is the decision to subvert fan expectations - why, exactly? Disney/Lucasfilm goes to all the trouble of making the first new episode (TFA) a practical copy of ANH, with all the stock characters and the Falcon, and made $2 billion (and more). Now they bring in a new director/writer whose job it is to say, No, we actually don't want to answer questions or follow on with Star Wars conventions. If they wanted to go their own way, they should have done that with TFA. Pretty odd to set up expectations that this trilogy will be like the old days just to say, ha, fooled you and your simple preconceptions.
 
-At the risk of falling to the dark side, for simplicity's sake, I'll just ascribe most of the bad plotting decisions to the new director - no need for Snoke backstory, no reveal of Rey's parents, and let's add a meaningless sub-plot excursion to a weird cantina - I mean casino - bringing in some current political points of sticking it to the 1%. Ye gods was that heavy-handed crap. (And missed out on connecting with the prequels nice nod to "Dune"-like banking clan and techno-union in AOTC). And not to keep bashing the casino, but it didn't even look-and-feel much like Star Wars. 
+At the risk of falling to the dark side, for simplicity's sake, I'll just ascribe most of the bad plotting decisions to the new director: no need for Snoke backstory, no reveal of Rey's parents, and let's add a meaningless sub-plot excursion to a weird cantina - I mean casino - shoe-horning in some current political points of sticking it to the 1%. Ye gods was that heavy-handed crap. (And missed out on connecting with the prequels nice nod to "Dune"-like banking clan and techno-union in AOTC). And not to keep bashing the casino, but it didn't even look-and-feel much like Star Wars. 
 
 The main throne room showdown was great and, especially on subsequent viewings, I'm not too worried about the lack of explanation about Snoke. Still, can't see the point in not mentioning even with one sentence something about his rise to power. I presume and hope against hope that Kylo's jab at Rey - you're nothing, you have no part in this story - is just a lie. It's not a problem if Rey's parents or backstory isn't Dickensian coincidentalist (Oh, Plo Koon/Dooku/Uncle Owen happened to have an illegitimate child....). But there better be a story there. Again, this is basic Star Wars mythology, and meanwhile, we're paying lots of money for tickets to be told a story, so figure out some sort of story!
 
@@ -43,23 +43,22 @@ Poe - Oscar Isaac really shined as the blow-something-up flyboy. Also nice to se
 
 Finn - Joh Boyega shows lots of charm but Finn does almost nothing of importance in the film. I'd guess that that's why they threw in another waste of time moment with his thwarted sacrifice. Just plain dumb turning that moment in to a flirtation and yet another script subversion, "we win not by fighting what we hate but by saving what we love" - nice sentiment, but the movie is called Star *Wars*.
 
-Droids - missing the droids. I love the original conception, droids in desert, very little dialogue. Hidden Fortress. Oh well.
-
-
-Kids ending - nice scene. But lousy ending to star wars. Wonder why 7 and 8 couldn't have 'correct' ending. Wonder if 9 will.
-
-Interesting takes:
-medium - don't want to see GoT in space.
-
-Luke's ending - seriously, given Carrie's death, don't know why you just don't swap out the death's. Leia's sacrifice jolts Luke to come back; Luke comes back and reluctantly takes on the mantle. 
+Droids - Lucas original idea with ANH was to show the story through the eyes of C-3PO and R2D2 (see [http://www.imdb.com/title/tt0051808/reference])The Hidden Fortress). He carried that on to a lesser degree in the original trilogy (C-3PO's God moment and plot re-telling were great parts of ROTJ), and was an ok part of TPM. BB-8 is fine, but seems to be just used for throw-awar jokes and randomly saving the day. Sad to see R2-D2 relegated to one scene here. 
 
 Leia 'skywalking' - silly but very happy. My take: She was knocked unconscious, woke up, and Force'd herself back. Almost makes sense but emotionally very satisfying. And, in a way, important to finally show that the other Skywalker twin did indeed have some strong force powers. Many of us have been waiting to see Leia's special Force powers for 30-some years.
 
 Multiple silent moments - Loved the hyperspace bombing of the First Order Fleet, but of course, why couldn't that have been autopiloted, or done by Ackbar or Leia. The "silent" treatment works great, though diminished because Johnson used it throughout the movie.
 
-The lack of lightspeed jump - pretty ridiculous and really should have had some other techno-babble explanation. It was bad enough in A New Hope, but only lasted 10 minutes or so. Here they actually say it'll take dozens (30?) of hours. 
+Luke & Leia - Amazing to see them together again. And with better writing this should have been worked out to a couple more scenes, again, we've waited 24 years for this. As many others have pointed out, given Carrie's death, don't know why you just don't swap out the death's - Leia's sacrifice would jolts Luke to come back; Luke comes back and reluctantly takes on the mantle, saving his sacrifice for EIX. 
 
-Music - didn't hear much new here. Of course, the original Empire score blew the doors off of the already fantastic Star Wars music with The Imperial March. Too bad. 
+Plotting - The lack of lightspeed jump - pretty ridiculous and really should have had some other techno-babble explanation. It was bad enough in A New Hope, but only lasted 10 minutes or so. Here they actually say it'll take dozens (30?) of hours. 
 
-BTW, not sure why new Chewie is thinner and more well groomed that 'real' Chewie. And the new guy doesn't have the jerky quirkieness of the great Peter Mayhew. 
+Kids ending - Nice scene, especially with the subtle force-grab of the broom. I would have had the kid explicitly play light-saber with it; that was the point of the scene, why not go with it. But a lousy non-Star-Wars ending to an episode. Sure the formal group portraits are cheesy - and they work. Any hope for something correct for EIX ?
 
+
+Music - didn't hear much new here. Of course, the original Empire score blew the doors off of the already fantastic Star Wars music with The Imperial March, can't expect every episode to match that.
+
+Chewie - not sure why new Chewie is thinner and more well groomed than the 'real' Chewie. And the new guy doesn't have the jerky quirkieness of the great Peter Mayhew. 
+
+Interesting takes:
+medium - don't want to see GoT in space.

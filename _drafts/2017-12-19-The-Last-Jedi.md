@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Wow. Never heard so much criticism of a Star Wars movie so quickly. It tooks months for the hate against Episode 1 to surface, and 2 and 3 were (relatively) warmly received as being better. Nevertheless, I also remember the harsh takes against "Return Of The Jedi" for it's creaky script ("What I told you was true, from a certain point of view") and apparent emphasis of marketing over believability (ewoks). The IMDB user reviews will no doubt be updated, but the day after the preview showing, some thirty or more 1 or 2 star reviews (out of *10!*) were posted - [http://www.imdb.com/title/tt2527336/reviews](http://www.imdb.com/title/tt2527336/reviews)
+Wow. Never heard so much criticism of a Star Wars movie so quickly. It took months for the hate against Episode 1 to surface, and 2 and 3 were (relatively) warmly received as being better. Nevertheless, I also remember the harsh takes against "Return Of The Jedi" for its creaky script ("What I told you was true, from a certain point of view") and apparent emphasis of marketing over believability (ewoks). The IMDB user reviews will no doubt be updated, but the day after the preview showing, some thirty or more 1 or 2 star reviews (out of *10!*) were posted - [http://www.imdb.com/title/tt2527336/reviews](http://www.imdb.com/title/tt2527336/reviews)
 
 IMHO - it's ok to like TLJ, and it's ok to hate it. I guess I have some experience with this as I am not a prequel-hater and so have to endure pitying remarks and blank stares when mentioning all the good stuff in TROS, AOTC, and yes, TPM.  (Apologies but I'll be using galactic standard movie abbreviations herein: TPM, AOTC, ROTS, ANH, TESB, ROTJ, R1, TFA, TLJ, SOLO, and EIX for the next episode (see [http://www.swbookzone.com/glossary.html](glossary) ).
 
@@ -10,7 +10,7 @@ IMHO - it's ok to like TLJ, and it's ok to hate it. I guess I have some experien
 
 For me, the first viewing was pretty overwhelming, so much stuff crammed into the movie which was already 2-1/2 hours long. And with the ending of Luke's physical story along with knowing that Carrie Fisher would not be returning, it was all pretty sad. After reading various posts, mostly negative, and after two more viewings, I'll say that the better parts of the film far outweigh the bad, and it's gets a lot easier to forgive the bad stuff.
 
-Some have criticized Luke's behavior, but having young, innocent farmboy turn in to grumpy old man doesn't seem like a stretch to me. The main character arc seems to have been in mind since TFA (we see Luke watching his new temple burn down in Ray's vision). So, after a failure that enabled Ben to become Kylo, makes sense to have him get a little depressed and hide somewhere. If fans were expecting Luke -- as he says -- to recover his cheery disposition and fight the bad guys at the end of TLJ like the old days, that's a little naive. Luke's sacrifice makes sense, and certainly done in a novel and dramatic fashion.
+Some have criticized Luke's behavior, but having young, innocent farm-boy turn in to grumpy old man doesn't seem like a stretch to me. The main character arc seems to have been in mind since TFA (we see Luke watching his new temple burn down in Ray's vision). So, after a failure that enabled Ben to become Kylo, makes sense to have him get a little depressed and hide somewhere. If fans were expecting Luke -- as he says -- to recover his cheery disposition and fight the bad guys at the end of TLJ like the old days, that's a little naive. Luke's sacrifice makes sense, and certainly done in a novel and dramatic fashion.
 
 The problem of course, is that we're left with a gaping hole in how to handle Episode 9. About which it seems that JJ Abrams can either straighten out the plotting of TLJ, or we'll hate EIX even more.
 
@@ -25,7 +25,7 @@ In summary, seeing the film again (and again) makes it much easier to skip over 
 The lack of an overarching vision may be a problem with the current corporate structure. A recent note on  mentioned that JJ Abrams [https://www.starwarsnewsnet.com/2017/12/j-j-abrams-revealed-his-star-wars-episode-ix-pitch-to-bob-iger-today.html](pitched his script to Disney).  Yikes - except for ANH, Lucas never pitched his ideas to anyone; they were, effectively, the highest budget (and highest grossing) independent films by a couple orders of magnitude.
 
 Solo - May 24th. Going to be very strange........ Back in the day, we had to wait three years...
-JJ pitch to Iger - Sort of the problem here. Lucas pitched A New Hope to Fox; after that no pitches. Now directors have to impress others with the pitch.
+
 
 Random points.....
 
@@ -43,11 +43,11 @@ Poe - Oscar Isaac really shined as the blow-something-up flyboy. Also nice to se
 
 Finn - Joh Boyega shows lots of charm but Finn does almost nothing of importance in the film. I'd guess that that's why they threw in another waste of time moment with his thwarted sacrifice. Just plain dumb turning that moment in to a flirtation and yet another script subversion, "we win not by fighting what we hate but by saving what we love" - nice sentiment, but the movie is called Star *Wars*.
 
-Droids - Lucas original idea with ANH was to show the story through the eyes of C-3PO and R2D2 (see [http://www.imdb.com/title/tt0051808/reference])The Hidden Fortress). He carried that on to a lesser degree in the original trilogy (C-3PO's God moment and plot re-telling were great parts of ROTJ), and was an ok part of TPM. BB-8 is fine, but seems to be just used for throw-awar jokes and randomly saving the day. Sad to see R2-D2 relegated to one scene here. 
+Droids - Lucas original idea with ANH was to show the story through the eyes of C-3PO and R2D2 (see [http://www.imdb.com/title/tt0051808/reference])The Hidden Fortress). He carried that on to a lesser degree in the original trilogy (C-3PO's God moment and plot re-telling were great parts of ROTJ), and was an ok part of TPM. BB-8 is fine, but seems to be just used for throw-away jokes and randomly saving the day. Sad to see R2-D2 relegated to one scene here. 
 
 Leia 'skywalking' - silly but very happy. My take: She was knocked unconscious, woke up, and Force'd herself back. Almost makes sense but emotionally very satisfying. And, in a way, important to finally show that the other Skywalker twin did indeed have some strong force powers. Many of us have been waiting to see Leia's special Force powers for 30-some years.
 
-Multiple silent moments - Loved the hyperspace bombing of the First Order Fleet, but of course, why couldn't that have been autopiloted, or done by Ackbar or Leia. The "silent" treatment works great, though diminished because Johnson used it throughout the movie.
+Multiple silent moments - Loved the hyperspace bombing of the First Order Fleet, but of course, why couldn't that have been autopiloted, or done by Ackbar or, best, Leia. The "silent" treatment works great, though diminished because Johnson used it throughout the movie.
 
 Luke & Leia - Amazing to see them together again. And with better writing this should have been worked out to a couple more scenes, again, we've waited 24 years for this. As many others have pointed out, given Carrie's death, don't know why you just don't swap out the death's - Leia's sacrifice would jolts Luke to come back; Luke comes back and reluctantly takes on the mantle, saving his sacrifice for EIX. 
 
@@ -58,7 +58,7 @@ Kids ending - Nice scene, especially with the subtle force-grab of the broom. I 
 
 Music - didn't hear much new here. Of course, the original Empire score blew the doors off of the already fantastic Star Wars music with The Imperial March, can't expect every episode to match that.
 
-Chewie - not sure why new Chewie is thinner and more well groomed than the 'real' Chewie. And the new guy doesn't have the jerky quirkieness of the great Peter Mayhew. 
+Chewie - not sure why new Chewie is thinner and more well groomed than the 'real' Chewie. And the new guy doesn't have the jerky quirkiness of the great Peter Mayhew. 
 
 Interesting takes:
 medium - don't want to see GoT in space.

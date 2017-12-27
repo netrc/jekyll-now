@@ -3,7 +3,7 @@ published: false
 ---
 Wow. Never heard so much criticism of a Star Wars movie so quickly. It took months for the hate against Episode 1 to surface, and 2 and 3 were (relatively) warmly received as being better. Nevertheless, I also remember the harsh takes against "Return Of The Jedi" for its creaky script ("What I told you was true, from a certain point of view") and apparent emphasis of marketing over believability (ewoks). The IMDB user reviews will no doubt be updated, but the day after the preview showing, some thirty or more 1 or 2 star reviews (out of *10!*) were posted - [http://www.imdb.com/title/tt2527336/reviews](http://www.imdb.com/title/tt2527336/reviews)
 
-IMHO - it's ok to like TLJ, and it's ok to hate it. I guess I have some experience with this as I am not a prequel-hater and so have to endure pitying remarks and blank stares when mentioning all the good stuff in TROS, AOTC, and yes, TPM.  (Apologies but I'll be using galactic standard movie abbreviations herein: TPM, AOTC, ROTS, ANH, TESB, ROTJ, R1, TFA, TLJ, SOLO, and EIX for the next episode (see [http://www.swbookzone.com/glossary.html](glossary) ).
+IMHO - it's ok to like TLJ, and it's ok to hate it. I guess I have some experience with this as I am not a prequel-hater and so have to endure pitying remarks and blank stares when mentioning all the good stuff in TROS, AOTC, and yes, TPM.  (Apologies but I'll be using galactic standard movie abbreviations herein: TPM, AOTC, ROTS, ANH, TESB, ROTJ, R1, TFA, TLJ, SOLO, and EIX for the next episode (see [glossary](http://www.swbookzone.com/glossary.html) ).
 
 **SPOILERS** **SPOILERS** **SPOILERS** **SPOILERS** **SPOILERS** **SPOILERS**
 
@@ -22,15 +22,15 @@ The main throne room showdown was great and, especially on subsequent viewings, 
 
 In summary, seeing the film again (and again) makes it much easier to skip over these lapses and hope for some plot cohesiveness in EIX. Seems to be our lot in life with so many episodic franchises to hope against hope that we'll get some satisfying resolution to myriad plot points in the final episode. I'm not even sure of any original tv or film franchise that managed this well. Granted it's tough to balance fresh takes with keeping true to the spirit, but I'll be damned disappointed if we end up with no Jedi's or even "grey" Jedi's at the end.
 
-The lack of an overarching vision may be a problem with the current corporate structure. A recent note on  mentioned that JJ Abrams [https://www.starwarsnewsnet.com/2017/12/j-j-abrams-revealed-his-star-wars-episode-ix-pitch-to-bob-iger-today.html](pitched his script to Disney).  Yikes - except for ANH, Lucas never pitched his ideas to anyone; they were, effectively, the highest budget (and highest grossing) independent films by a couple orders of magnitude.
+The lack of an overarching vision may be a problem with the current corporate structure. A recent note on  mentioned that JJ Abrams [pitched his script to Disney](https://www.starwarsnewsnet.com/2017/12/j-j-abrams-revealed-his-star-wars-episode-ix-pitch-to-bob-iger-today.html).  Yikes - except for ANH, Lucas never pitched his ideas to anyone; they were, effectively, the highest budget (and highest grossing) independent films by a couple orders of magnitude.
 
 Random points.....
 
-[http://www.imdb.com/title/tt3778644/reference](Solo: A Star Wars Story) - It's going to be interesting to see how this fares at the box office coming so soon after TLJ: it opens just five months from now. Even I have my limits to Star Wars immersion. Back in the day we had to wait 3 years between episodes!
+[Solo: A Star Wars Story](http://www.imdb.com/title/tt3778644/reference) - It's going to be interesting to see how this fares at the box office coming so soon after TLJ: it opens just five months from now. Even I have my limits to Star Wars immersion. Back in the day we had to wait 3 years between episodes!
 
 Kylo - Loving Adam Driver's work. Did you notice his mention of 'force projection' to Rey on their second 'connection' - "You're not doing this, the effort would kill you", which effort does kill Luke at the end.
 
-Casino - 'Nuff said. But note there's a small John Williams music cue from [https://www.youtube.com/watch?v=dkKHp4nOU3E](The Long Goodbye) in the scene. And also a riff on the brilliant 1927 [http://www.imdb.com/title/tt0018578/reference](Wings) [https://www.youtube.com/watch?v=d1H699088FI](party scene).
+Casino - 'Nuff said. But note there's a small John Williams music cue from [The Long Goodbye](https://www.youtube.com/watch?v=dkKHp4nOU3E) in the scene. And also a riff on the brilliant 1927 [Wings](http://www.imdb.com/title/tt0018578/reference) [party scene](https://www.youtube.com/watch?v=d1H699088FI).
 
 Porgs - No problems here. From the trailer, I think we were all worried they'd be Chewie's new sidekick or something. But they're just set decoration, not a character or plot point (so far). Fine to have them around as the 'tribbles' of the Falcon. And the island Caretakers were fun.
 
@@ -40,7 +40,7 @@ Poe - Oscar Isaac really shined as the blow-something-up flyboy. Also nice to se
 
 Finn - Joh Boyega shows lots of charm but Finn does almost nothing of importance in the film. I'd guess that that's why they threw in another waste of time moment with his thwarted sacrifice. Just plain dumb turning that moment in to a flirtation and yet another script subversion, "we win not by fighting what we hate but by saving what we love" - nice sentiment, but the movie is called Star *Wars*.
 
-Droids - Lucas original idea with ANH was to show the story through the eyes of C-3PO and R2D2 (see [http://www.imdb.com/title/tt0051808/reference])The Hidden Fortress). He carried that on to a lesser degree in the original trilogy (C-3PO's God moment and plot re-telling were great parts of ROTJ), and was an ok part of TPM. BB-8 is fine, but seems to be just used for throw-away jokes and randomly saving the day. Sad to see R2-D2 relegated to one scene here. 
+Droids - Lucas original idea with ANH was to show the story through the eyes of C-3PO and R2D2 (see [The Hidden Fortress](http://www.imdb.com/title/tt0051808/reference). He carried that on to a lesser degree in the original trilogy (C-3PO's God moment and plot re-telling were great parts of ROTJ), and was an ok part of TPM. BB-8 is fine, but seems to be just used for throw-away jokes and randomly saving the day. Sad to see R2-D2 relegated to one scene here. 
 
 Leia 'skywalking' - silly but very happy. My take: She was knocked unconscious, woke up, and Force'd herself back. Almost makes sense but emotionally very satisfying. And, in a way, important to finally show that the other Skywalker twin did indeed have some strong force powers. Many of us have been waiting to see Leia's special Force powers for 30-some years.
 

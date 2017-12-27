@@ -24,12 +24,9 @@ In summary, seeing the film again (and again) makes it much easier to skip over 
 
 The lack of an overarching vision may be a problem with the current corporate structure. A recent note on  mentioned that JJ Abrams [https://www.starwarsnewsnet.com/2017/12/j-j-abrams-revealed-his-star-wars-episode-ix-pitch-to-bob-iger-today.html](pitched his script to Disney).  Yikes - except for ANH, Lucas never pitched his ideas to anyone; they were, effectively, the highest budget (and highest grossing) independent films by a couple orders of magnitude.
 
-Solo - May 24th. Going to be very strange........ Back in the day, we had to wait three years...
-
-
 Random points.....
 
-[http://www.imdb.com/title/tt3778644/reference](Solo: A Star Wars Story) - It's going to be interesting to see how this fares at the box office coming so soon after TLJ: it opens just five months from now. Even I have my limits to Star Wars immersion. 
+[http://www.imdb.com/title/tt3778644/reference](Solo: A Star Wars Story) - It's going to be interesting to see how this fares at the box office coming so soon after TLJ: it opens just five months from now. Even I have my limits to Star Wars immersion. Back in the day we had to wait 3 years between episodes!
 
 Kylo - Loving Adam Driver's work. Did you notice his mention of 'force projection' to Rey on their second 'connection' - "You're not doing this, the effort would kill you", which effort does kill Luke at the end.
 

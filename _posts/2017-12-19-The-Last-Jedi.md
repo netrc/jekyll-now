@@ -61,5 +61,3 @@ Music - didn't hear much new here. Of course, the original Empire score blew the
 
 Chewie - not sure why new Chewie is thinner and more well groomed than the 'real' Chewie. And the new guy doesn't have the jerky quirkiness of the great Peter Mayhew. 
 
-Interesting takes:
-medium - don't want to see GoT in space.

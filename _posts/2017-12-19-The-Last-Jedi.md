@@ -44,7 +44,7 @@ Poe - Oscar Isaac really shined as the blow-something-up flyboy. Also nice to se
 
 Finn - Joh Boyega shows lots of charm but Finn does almost nothing of importance in the film. I'd guess that that's why they threw in another time and plot-wasting moment at the end of the film with his thwarted sacrifice. Just plain dumb turning that moment in to a flirtation and yet another script subversion, "we win not by fighting what we hate but by saving what we love" - sounds nice but the movie is called Star *Wars*.
 
-Droids - Lucas original idea with ANH was to show the story through the eyes of C-3PO and R2D2 (see [The Hidden Fortress](http://www.imdb.com/title/tt0051808/reference). He carried that on to a lesser degree in the original trilogy (C-3PO's God moment and plot re-telling were great parts of ROTJ), was an small part of TPM, and not much thereafter. BB-8 is fine, but seems to be just used for throw-away jokes and randomly saving the day. Sad to see C-3PO just doing cameos and R2-D2 relegated to one little scene here. 
+Droids - Lucas original idea with ANH was to show the story through the eyes of C-3PO and R2D2 (see [The Hidden Fortress](http://www.imdb.com/title/tt0051808/reference). He carried that on to a lesser degree in the original trilogy (C-3PO's God moment and plot re-telling were great parts of ROTJ), was a small part of TPM, and not much thereafter. BB-8 is fine, but seems to be just used for throw-away jokes and randomly saving the day. Sad to see C-3PO just doing cameos and R2-D2 relegated to one little scene here. 
 
 Leia 'skywalking' - silly but I enjoyed it a lot. My simple take: She was knocked unconscious, woke up, and Force'd herself back. Almost makes sense but emotionally very satisfying. And, in a way, important to finally show that the other Skywalker twin did indeed have some strong force powers. Many of us have been waiting to see Leia's powers for 20-some years.
 
@@ -52,7 +52,7 @@ Holdo's Sacrifice - Loved the ultimate hyperspace bombing of the First Order Fle
 
 Luke & Leia - Amazing to see them together again. And with better writing this should have been worked out to a couple more scenes, again, we've waited decades for this.  
 
-Plotting - The lack of lightspeed jump - pretty ridiculous and really should have had some other techno-babble explanation. It was bad enough in A New Hope, but only lasted 10 minutes or so. Here they actually say it'll take dozens (30?) of hours. 
+Plotting - The lack of lightspeed jump by First Order ships to get in front of Resistance was pretty ridiculous and really should have had some other techno-babble explanation. It was bad enough in A New Hope,  with the Death Star out of range of Yavin, but that only lasted 10 minutes or so (of real time). Here they actually say it'll take dozens (30?) of hours for the Resistance to run out of fuel; another dumb plot hole. 
 
 Kids ending - Nice scene, especially with the subtle force-grab of the broom. I would have had the kid explicitly play light-saber with it; that was the point of the scene, why not go with it. But a lousy non-Star-Wars ending to an episode. Sure the formal group portraits are cheesy - and they work. Any hope for something correct for EIX ?
 

@@ -1,5 +1,3 @@
-# Catching up on a couple films...
-
 ## Queen Of The Desert
 
 Ran across [Queen of the Desert](https://www.imdb.com/title/tt1837636/reference) the other night.

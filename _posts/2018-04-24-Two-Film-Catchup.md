@@ -21,7 +21,7 @@ A perennial problem for such films: The actual work involved in being a smart pe
 and writing research reports and translations, etc, is of course, quite boring. When the main character in
 your script is such a person, I grant that effectively showing this work ethic is rarely achieved. But please
 do show us something more than the odd quip or someone staring out at the horizon. The ending here, where Bell
-effectively annoints the new Kinds of Iran and Jordan, is setup and over much to quickly.
+effectively annoints the new Kinds of Iran and Jordan, is setup and over much too quickly.
 
 
 ## Ready Player One

@@ -8,7 +8,7 @@ OK, ready for crazy, but its nowhere to be found. For those who've seen the Herz
 [Fitzcarraldo](https://www.imdb.com/title/tt0083946/reference), etc - you expect a certain level of strained reality, 
 deep angst, and inner turmoil. Here, the Queen is [Gertrude Bell](https://en.wikipedia.org/wiki/Gertrude_Bell), 
 an early 20th-century free-spirited English woman who turns to travels and archaeology in the middle east. 
-The film is pretty conventional and but somewhat uninspired. The oddest part is that the historical gimmick about 
+The film is pretty conventional but somewhat uninspired. The oddest part is that the historical gimmick about 
 Bell is that she is supposed to have superior insights into the people and politics of pre-modern Arabia and may 
 have been a key player in setting down the current set of nation-states and their inherent tensions (to put it mildly).
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Must See Movies ofthe '80s
+published: true
+categories: arts
 ---
 Out with the gang a couple nights ago, rambling on about good movies, I mentioned ["Body Heat"](http://www.imdb.com/title/tt0082089/combined)
 as a must see and got blank stares from

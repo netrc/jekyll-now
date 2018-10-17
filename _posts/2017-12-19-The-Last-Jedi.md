@@ -1,5 +1,6 @@
 ---
 published: true
+categories: arts
 ---
 Wow. Never heard so much criticism of a Star Wars movie so quickly. It took months for the hate against Episode 1 to surface, and 2 and 3 were (relatively) warmly received as being better. Nevertheless, I also remember the harsh takes against "Return Of The Jedi" for its creaky script ("What I told you was true, from a certain point of view") and apparent emphasis of marketing over believability (ewoks). The IMDB user reviews will no doubt be updated, but the day after the preview showing, some thirty or more 1 or 2 star reviews (out of *10!*) were posted - [http://www.imdb.com/title/tt2527336/reviews](http://www.imdb.com/title/tt2527336/reviews)
 
@@ -59,5 +60,4 @@ Kids ending - Nice scene, especially with the subtle force-grab of the broom. I 
 
 Music - didn't hear much new here. Of course, the original Empire score blew the doors off of the already fantastic Star Wars music with The Imperial March, can't expect every episode to match that.
 
-Chewie - not sure why new Chewie is thinner and more well groomed than the 'real' Chewie. And the new guy doesn't have the jerky quirkiness of the great Peter Mayhew. 
-
+Chewie - not sure why new Chewie is thinner and more well groomed than the 'real' Chewie. And the new guy doesn't have the jerky quirkiness of the great Peter Mayhew.

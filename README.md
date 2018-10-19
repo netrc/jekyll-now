@@ -2,6 +2,34 @@ Saving the original info on how-to jekyll-now
 
 See blog at [netrc.github.io](https://netrc.github.io)
 
+My notes
+
+new post - go to drafts; title, use date and dashes, .md extension
+... save, set to publish,   ? have to set publish again?
+
+styles - background gradient in  styles.scss ? (_reset_css back to original)
+
+added postindex.md with jekyll code to list all posts
+
+added line to post.hmtl to print categories
+
+layouts
+- fault
+- page
+- pages
+- post - a single full post
+- posts
+
+TODO
+- try and change cat name to icon
+- add cat name/icon to full listing
+- add last 10 or so posts to front page side-bar
+- footer doesn't have same background
+- fix other posts with <more> thing
+
+
+
+
 
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 

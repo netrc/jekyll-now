@@ -5,8 +5,11 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <table width=100%> <tr>
+        <td>
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        </td>
+        <td valign="middle">
       <div class="posts-subtitle">
         {{ post.date | date: "%B %e, %Y" }} &nbsp; &nbsp; 
         {% if post.categories %}
@@ -15,6 +18,8 @@ layout: default
            {% endfor %}
         {% endif %}
       </div>
+        </td>
+        </tr> </table>
 
       <div class="entry">
         {{ post.excerpt }}

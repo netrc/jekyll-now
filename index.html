@@ -9,15 +9,15 @@ layout: default
         <td>
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         </td>
-        <td valign="middle">
-      <div class="posts-subtitle">
-        {{ post.date | date: "%B %e, %Y" }} &nbsp; &nbsp; 
-        {% if post.categories %}
-           {% for category in post.categories %}
-             {{ category | upcase }}
-           {% endfor %}
-        {% endif %}
-      </div>
+        <td valign="middle" align="right">
+        <div class="posts-subtitle">
+          {{ post.date | date: "%B %e, %Y" }} &nbsp; &nbsp; 
+          {% if post.categories %}
+             {% for category in post.categories %}
+               {{ category | upcase }}
+             {% endfor %}
+          {% endif %}
+        </div>
         </td>
         </tr> </table>
 

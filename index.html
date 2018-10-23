@@ -7,7 +7,14 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <div class="postlist.subtitle"> x {{ post.date | date: "%B %e, %Y" }} </div>
+      <div class="posts-subtitle">
+        {{ post.date | date: "%B %e, %Y" }} &nbsp; &nbsp; 
+        {% if post.categories %}
+           {% for category in post.categories %}
+             {{ category | upcase }}
+           {% endfor %}
+        {% endif %}
+      </div>
 
       <div class="entry">
         {{ post.excerpt }}

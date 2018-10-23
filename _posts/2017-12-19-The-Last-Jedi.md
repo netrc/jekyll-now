@@ -11,6 +11,8 @@ IMHO - it's ok to like TLJ, and it's ok to hate it. I guess I have some experien
 
 For me, the first viewing was pretty overwhelming, so much stuff crammed into the movie which was already 2-1/2 hours long. And with the ending of Luke's physical story along with knowing that Carrie Fisher would not be returning, it was all pretty sad. After reading various posts, mostly negative, and after two more viewings, I'll say that the better parts of the film far outweigh the bad, and it's gets a lot easier to forgive the bad stuff.
 
+<!--more-->
+
 Some have criticized Luke's behavior, but having young, innocent farm-boy turn in to grumpy old man doesn't seem like a stretch to me. The main character arc seems to have been in mind since TFA (we see Luke watching his new temple burn down in Ray's vision). So, after a failure that enabled Ben to become Kylo, makes sense to have him get a little depressed and hide somewhere. If fans were expecting Luke -- as he says -- to recover his cheery disposition and fight the bad guys at the end of TLJ like the old days, that's a little naive. Luke's sacrifice makes sense, and certainly done in a novel and dramatic fashion.
 
 The problem of course, is that we're left with a gaping hole in how to handle Episode 9. About which it seems that JJ Abrams can either straighten out the plotting of TLJ, or we'll hate EIX even more.

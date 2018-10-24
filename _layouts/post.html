@@ -4,14 +4,21 @@ published: true
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
-  {% if page.categories %}
-    <div class="post-category"> 
-    {% for category in page.categories %}
-       {{ category | upcase }}
-    {% endfor %}
-    </div>
- {% endif %}
+  <table width=100%> <tr>
+     <td>
+      <h1> {{ page.title }}</h1>
+     </td>
+     <td valign="middle" align="right">
+     <div class="posts-subtitle">
+      {{ page.date | date: "%B %e, %Y" }} &nbsp; &nbsp; 
+      {% if page.categories %}
+         {% for category in page.categories %}
+           {{ category | upcase }}
+         {% endfor %}
+      {% endif %}
+     </div>
+     </td>
+  </tr> </table>
 
   <div class="entry">
     {{ content }}

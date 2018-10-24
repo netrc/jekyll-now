@@ -13,6 +13,13 @@ added postindex.md with jekyll code to list all posts
 
 added line to post.hmtl to print categories
 
+'lightbox'
+- added scss/_rc.scss
+- css.scss @imports rc
+- index.html and layouts/post.html adds div's and script to do the modal
+- e.g. Mokba - just add {:class="lbx-image"}  to image .md tag
+
+
 layouts
 - fault
 - page

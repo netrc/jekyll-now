@@ -1,0 +1,27 @@
+
+<div id="lbx-modal" class="lbx-modal">
+  <!-- The Close Button - which just display=none the whole modal node -->
+  <span class="lbx-close" onclick='document.getElementById("lbx-modal").style.display="none";'>&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img id="lbx-modalImg" class="lbx-modal-content">
+
+  <!-- Modal Caption (Image Text) -->
+  <div id="lbx-caption"></div>
+</div>
+
+<script>
+// Get the singleton modal popup node, popup image node, and caption node
+var modal = document.getElementById('lbx-modal');
+var modalImg = document.getElementById("lbx-modalImg");
+var captionText = document.getElementById("lbx-caption");
+
+// Get the images and, onclick, insert it inside the modal - use its "alt" text as a caption
+Array.from(document.getElementsByClassName("lbx-image")).forEach( img => {
+  img.onclick = function(){
+      modal.style.display = "block";  // make visible
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt ? this.alt : "";
+  }
+});
+</script>

@@ -5,9 +5,9 @@ Have to start by saying Europe, I'm a big fan. Tremendous culture, etc.
 
 But outside of the big cities (and even at many places in the big city) they just don't run bars the way we do in the U.S. of A. -- correctly.
 
-<!--more-->
+Two stories, of Scotch and Martinis...
 
-Two stories....
+<!--more-->
 
 First - In a bar in Nancy, France; it's busy so we're upstairs. Buddy asks for a beer, I ask for a Clan Campbell scotch and hold out 4 fingers as I say, "Quatre deciliters". Now that brand is a mediocre blended whisky but I have to drink it for obvious reasons and also it almost always comes in a nice glass with the name printed on it. And I have to say 4 deciliters as that is the standard double pour, which if you know me is a minimum. The waitress replies, "I don't speak English", and that sounds odd as she says it with almost no accent; meanwhile my French isn't so bad that "Quatre deciliters" can't be understood in context. I continue holding up my 4 fingers and she leaves.
 

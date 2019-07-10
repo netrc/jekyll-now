@@ -1,9 +1,7 @@
 ---
 published: false
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## From a different point of view
 
 Over the past year or so, I've noticed a couple of pairs of films that seem made for each other, or rather that dove-tailed so perfectly that the pair together made for a much stronger overall story.
 

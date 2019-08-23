@@ -28,16 +28,33 @@ Rashoman / many others / He Said She Said
 
 Little Dorritt
 
+Must be in same universe
+Otherwise it's a ?
+
+Remakes are not.. papillon
+
+Doc vs fiction
+
+Rosencrantz and guildenstern
+
+Must expand universe... More chars scenes ideas
 
 x/Jsutice League snippet
 
 Capote / In Cold Blood  (Infamous)
+
+The Graduate // Rumor Has It
+
+African Queen & White Hunter Black Heart
 
 Hitchock Psycho
 
 All Presidents Men Mark Felt
 
 Flags of our Fathers Letter From Iwo Jima
+
+Jighwaymen // Bonnie and Clyde
+
 
 
 Fosse/Verdon  - All That Jazz

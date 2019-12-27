@@ -33,8 +33,6 @@ The noted "de-aging" CGI is fine, but to be frank not too helpful in figuring ou
 
 (BTW, as a native of Birmingham, Michigan, went to Machus Red Fox restaurant plenty of times; it's not set in some isolated tree-lined road but off a strip mall at Telegraph and Maple. Saw lots of movies at the Maple Cinemas around the corner.)
 
-## The Two Popes
+## [The Two Popes](https://www.imdb.com/title/tt8404614/)
 
-## The Kominsky Method
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Actually, the proper title is "The One Pope" as the film is resolutely in Pope Francis' camp and tells its story of the priest/cardinals experiences in Argentina. Hopkins' Pope Benedict is just a bundle of ill-manners, closed-mindedness, and approaching disability; Francis is endearing and of the people. One of those films that's eventually very affecting, until you find out that it's entirely, utterly fictional.

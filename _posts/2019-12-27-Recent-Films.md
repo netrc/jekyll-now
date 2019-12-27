@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 (n.b. a couple Skywalker spoilers below)
 

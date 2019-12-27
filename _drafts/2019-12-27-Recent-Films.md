@@ -25,7 +25,13 @@ Even better, the new cast is still great (And Richard Grant's Admiral Pryde is f
 
 And how did they convince John Williams to having a cameo? His time is far too valuable!
 
-## The Irishman
+## [The Irishman](https://www.imdb.com/title/tt1302006/)
+
+Like discovering a new symphony by Beethoven, we've got another Scorcese/DeNiro/Pesci mob movie, this time with Pacino (and Ray Ramano too!). Beautiful and sedate in tone -- and requiring a couple nights to digest -- this putative story of the rise of the gangster Frank Sheerhan and the rift between the mob and the truckers union is told in a not-entirely clear patchwork of flashbacks. At the end, there's not a great deal we learn about Sheerhan, no particular motivation or even his response to unfolding events. It's all a bit too flat. But getting to see, e.g. Pesci rise to a new level of acting ability is more than worth it.
+
+The noted "de-aging" CGI is fine, but to be frank not too helpful in figuring out in what timeframe the scenes are supposed to be. 
+
+(BTW, as a native of Birmingham, Michigan, went to Machus Red Fox restaurant plenty of times; it's not set in some isolated tree-lined road but off a strip mall at Telegraph and Maple. Saw lots of movies at the Maple Cinemas around the corner.)
 
 ## The Two Popes
 

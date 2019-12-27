@@ -11,7 +11,8 @@ On Netflix, this documentary on the Ford Vs. Ferrari story is much more subdued 
 
 ## Midway
 
-An astonishingly complete story of the first act of the naval battles of World War II. Including a brief prologue in Tokyo from the late '30s, this covers the strategy and tactics of the main battles from Pearl Harbor, the Doolittle Raid, to Coral Sea, and the Battle of Miday -- a period of just over 6 months. Amazing how the film honors each of those events and how they were connected. 
+An astonishingly complete story of the first act of the naval battles of World War II. Including a brief prologue in Tokyo from the late '30s, this covers the strategy and tactics of the main battles from Pearl Harbor, the Doolittle Raid, to Coral Sea, and the Battle of Miday -- a period of just over 6 months. Amazing how the film honors each of those events and how they were connected. A great example: The film deftly shows how the U.S. submarine Nautilus was used in Midway, how the Japanese navy tried to depth charge bomb it, how the last Japanese ship had to steam full-speed back to their fleet, and how that ship's course helped guide U.S. pilots to the remaining Japanese aircraft carriers. 
+Unlike many other films, there's no awkwardness when showing wives and family at home nor any contrived love story; the stars of the film are the main combatants, pilots, seamen, code-breakers, and ships. 
 
 
 

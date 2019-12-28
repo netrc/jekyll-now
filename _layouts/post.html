@@ -13,7 +13,7 @@ published: true
       {{ page.date | date: "%B %e, %Y" }} &nbsp; &nbsp; 
       {% if page.categories %}
          {% for category in page.categories %}
-            {% include post-categories.html %}
+            {% include post_categories.html %}
          {% endfor %}
       {% endif %}
      </div>

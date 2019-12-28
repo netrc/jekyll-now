@@ -40,3 +40,5 @@ The noted "de-aging" CGI is fine, but to be frank not too helpful in figuring ou
 
 Actually, the proper title is "The One Pope" as the film is resolutely in Pope Francis' camp and tells its story of the priest/cardinals experiences in Argentina. Hopkins' Pope Benedict is just a bundle of ill-manners, closed-mindedness, and approaching disability; Francis is endearing and of the people. One of those films that's eventually very affecting, until you find out that it's entirely, utterly fictional.
 
+<hr>
+

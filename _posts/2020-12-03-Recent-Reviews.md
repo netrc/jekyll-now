@@ -2,7 +2,7 @@
 published: true
 ---
 
-*(note... :+1::+1: must see... :+1: recommended...  :-1: skip it...  if there's no indication, meh, take it or leave it)*
+*(note... 👍👍 must see... 👍 recommended...  👎 skip it...  if there's no indication, meh, take it or leave it)*
 
 ## Misc Fiction
 

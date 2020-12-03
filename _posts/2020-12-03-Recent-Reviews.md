@@ -15,7 +15,7 @@ published: true
 
 <!--more-->
 
-[7500](https://www.imdb.com/title/tt6436726/reference) (Prime Video)- not too much here; basically just watching the pilot (Joseph Gordon-Levitt) during an attempted high-jacking. Good news, reasonably deft and over quickly enough - Bad news, never develops any siginificant emotional response in JG-L or us.
+[7500](https://www.imdb.com/title/tt6436726/reference) (Prime Video)- not too much here; basically just watching the pilot ([Joseph Gordon-Levitt](https://www.imdb.com/name/nm0330687/?ref_=fn_al_nm_1)) during an attempted high-jacking. Good news, reasonably deft and over quickly enough - Bad news, never develops any siginificant emotional response in JG-L or us.
 
 [Prospect](https://www.imdb.com/title/tt7946422/reference) (Netflix) - very atmospheric low-budget sci-fi with father/daughter prospectors trying to figure out how to strike the big find on random planet. Pedro Pascal (The Mandalorian) balances out the slow drama nicely, though the whole thing goes on too long.
 
@@ -28,7 +28,7 @@ published: true
 [Tales from the Loop](https://www.imdb.com/title/tt8741290/reference) (Prime Video) - Just couldn't sit through first episode; no idea what its all about.
 
 
-## World War IIish
+## World War II-ish
 
 👍 [The 12th Man](https://www.imdb.com/title/tt3300980/reference) (Netflix) - true WW2 story of failed commando operation that leaves our hero struggling to survive across frozen ground of northern Norway. Slow, quiet, scenic production. From the intro credits "The most incredible events in this story are the ones that actually took place". And see https://en.wikipedia.org/wiki/Jan_Baalsrud
 
@@ -46,7 +46,7 @@ published: true
 
 ## Other Historical
 
-👍 [Barbarians](https://www.imdb.com/title/tt9184986/reference) (Netflix) - decent historical drama of the true story of [Arminius](https://en.wikipedia.org/wiki/Arminius), germanic hostage turned Roman Equite turned traitor to Rome and victor of the [Battle of the Teutoburg Forest](https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest). So far, just one season; probably all I'll need to watch. Endorsed by https://ancientimes.blogspot.com/2020/11/two-thumbs-up-for-german-series.html !
+👍 [Barbarians](https://www.imdb.com/title/tt9184986/reference) (Netflix) - decent historical drama of the true story of [Arminius](https://en.wikipedia.org/wiki/Arminius), germanic hostage turned Roman Equite turned traitor to Rome and victor of the [Battle of the Teutoburg Forest](https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest). So far, just one season; probably all I'll need to watch. Endorsed by [Ancient Times blov](https://ancientimes.blogspot.com/2020/11/two-thumbs-up-for-german-series.html) !
 
 [Radioactive](https://www.imdb.com/title/tt6017756/reference) (Prime Video) - ok gauzy biopic with a couple decent science scenes of Madame and Pierre Curie's discovery of radioactivity. Loses the thumbs-up for heavy-handed cross-cutting to scenes from WWII and medicine demonstrating the evils and good of the nuclear age.
 
@@ -54,6 +54,6 @@ published: true
 
 [Valley of Tears](https://www.imdb.com/title/tt8190688/reference) (HBO Max) - Israeli series following tank crews and others during the [Yom Kippur War](https://en.wikipedia.org/wiki/Yom_Kippur_War) in the Golan Heights in 1973. Due to the bad dubbing in to English and the rather frantic state of the characters most of the time this doesn't quite pass muster, but I'll slog through to the end. 
 
-[Making of Psycho](https://www.imdb.com/title/tt0370926/reference) - very simple old-school documentary with cast and crew from the [Hitchcock](https://www.imdb.com/name/nm0000033/?ref_=fn_al_nm_1) classic. Interesting to hear from the writer how much free rein he got from Hitch; many plot points and angles were his invention. And, obligatory Star Wars mention - a music cue from Bernard Hermann's score was used in rough-cut of A New Hope (just before Ben/Han/etc pop their heads up from smuggling spaces in the Falcon). [John Williams](https://www.imdb.com/name/nm0002354/?ref_=fn_al_nm_1) loved it and re-scored it in his own way.
+[Making of Psycho](https://www.imdb.com/title/tt0370926/reference) (Prime Video I think) - very simple old-school documentary with cast and crew from the [Hitchcock](https://www.imdb.com/name/nm0000033/?ref_=fn_al_nm_1) classic. Interesting to hear from the writer how much free rein he got from Hitch; many plot points and angles were his invention. And, obligatory Star Wars mention - a music cue from Bernard Hermann's score was used in rough-cut of A New Hope (just before Ben/Han/etc pop their heads up from smuggling spaces in the Falcon). [John Williams](https://www.imdb.com/name/nm0002354/?ref_=fn_al_nm_1) loved it and re-scored it in his own way.
 
-[Django](https://www.imdb.com/title/tt6247936/reference) - Amazing performance by [Reda Kateb](https://www.imdb.com/name/nm3024530/?ref_=tt_rv_t0) in this biopic of [Django Reinhardt](https://en.wikipedia.org/wiki/Django_Reinhardt) during Nazi takeover of Paris. Unfortunately bogs down a bit as Django gets to small town France trying to escape to Switzerland and finds fellow Roma caravan struggling to survive. Fantastic excepts of Django's music. 
+[Django](https://www.imdb.com/title/tt6247936/reference) (Prime Video) - Amazing performance by [Reda Kateb](https://www.imdb.com/name/nm3024530/?ref_=tt_rv_t0) in this biopic of [Django Reinhardt](https://en.wikipedia.org/wiki/Django_Reinhardt) during Nazi takeover of Paris. Unfortunately bogs down a bit as Django gets to small town France trying to escape to Switzerland and finds fellow Roma caravan struggling to survive. Fantastic excepts of Django's music. 

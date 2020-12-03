@@ -12,6 +12,8 @@ published: true
 
 :+1: Queens Gambit (Netflix) - very nice (too pretty?) drama of orphaned girl finding her way in the world as an up-and-coming chess grandmaster. Fun period kitsch and off-kilter characters. A decent amount of fairly accurate chess maneuvering.
 
+<!--more-->
+
 [7500](https://www.imdb.com/title/tt6436726/reference) - not too much here; basically just watching the pilot (Joseph Gordon-Levitt) during an attempted high-jacking. Good news, reasonably deft and over quickly enough - Bad news, never develops any siginificant emotional response in JG-L or us.
 
 Prospect

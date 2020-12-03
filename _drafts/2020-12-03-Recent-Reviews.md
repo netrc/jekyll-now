@@ -12,7 +12,7 @@ published: false
 
 :+1: Queens Gambit (Netflix) - very nice (too pretty?) drama of orphaned girl finding her way in the world as an up-and-coming chess grandmaster. Fun period kitsch and off-kilter characters. A decent amount of fairly accurate chess maneuvering.
 
-7500
+[7500](https://www.imdb.com/title/tt6436726/reference) - not too much here; basically just watching the pilot (Joseph Gordon-Levitt) during an attempted high-jacking. Good news, reasonably deft and over quickly enough - Bad news, never develops any siginificant emotional response in JG-L or us.
 
 Prospect
 
@@ -35,7 +35,7 @@ Unhinged
 
 :+1: Life & Fate
 
-Radar thing
+[Castles In The Sky](https://www.imdb.com/title/tt3311900/reference) - nice and simple slice of biopic concerning main man and team behind working out of radar in Britain just pre-war-WWII. Hits all the tropes of the genre, and of course elides the truth and makes the men appear much less capable in engineering/science than they must have been. And inevitably skips over the enormous amount of work to turn the device into a functioning military and bureaucratic process to actually gets planes in the sky at the right time and place.
 
 Rommel
 
@@ -47,7 +47,7 @@ Mr. Jones
 
 :+1: Radioactive
 
-:+1::+1: The Good Lord Bird - best thing seen in this list, great performances, 
+:+1::+1: The Good Lord Bird - best thing seen in this list, great performances, quirky (there's that word again), and anchored with Ethan Hawke as out-of-this-world John Brown. Close enough to the truth to pass. Doubly interesting as I recently visited Harper's Ferry, which is a beautiful and tiny riverfront town.
 
 Valley of Tears
 

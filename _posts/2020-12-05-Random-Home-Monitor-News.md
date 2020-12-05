@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Price vs Resolution vs Time
 

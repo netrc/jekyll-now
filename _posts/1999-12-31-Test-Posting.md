@@ -12,7 +12,9 @@ To check out various features and hacks
 
 Does that iframe look right?
 
-How about this...
+How about this...<iframe  width="550" height="500" seamless frameborder="0" scrolling="no"src="https://netrc-pubcdn.s3.amazonaws.com/theater/showTheater.html"></iframe>
 
-<iframe  width="550" height="500" seamless frameborder="0" scrolling="no"src="https://netrc-pubcdn.s3.amazonaws.com/theater/showTheater.html"></iframe>
+...
+ 
 
+<iframe width="429" height="265" seamless frameborder="0" scrolling="no" src="https://netrc-pubcdn.s3.amazonaws.com/theater/showTheater.html"></iframe>

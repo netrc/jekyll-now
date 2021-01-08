@@ -17,4 +17,4 @@ How about this...<iframe  width="550" height="500" seamless frameborder="0" scro
 ...
  
 
-<iframe width="429" height="265" seamless frameborder="0" scrolling="no" src="https://netrc-pubcdn.s3.amazonaws.com/theater/showTheater.html"></iframe>
+<iframe width="550" height="500" seamless frameborder="0" scrolling="no" src="https://netrc-pubcdn.s3.amazonaws.com/theater/showTheater.html"></iframe>

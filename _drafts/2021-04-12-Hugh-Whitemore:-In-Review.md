@@ -6,13 +6,11 @@ A friend subscribed to HBOMax in order to see [Godzilla vs. Kong](https://www.im
 
 "The Gathering Storm" is a very good film, starring the great ALbert Finney, of Churchill's back-bench years before World War II as he agitated for greater diligence given Nazi Germany's rise. Very interesting in that it brings to light a whistleblower getting info to the public (via Winston) about Hitler's re-arming. 
 
-
-
 The title is based on Volume 1 of Churchill's six volume [The Second World War](https://amzn.to/3wAFqL9) and has actually been made into films a couple times before - There's a very good 8-part series [Windwon Churchill: The Wilderness Years](https://www.imdb.com/title/tt0081963/) (1981) staring Robert Hardy and even a Richard Burton version from 1974, [The Gathering Storm](https://www.imdb.com/title/tt0071536/) (that I haven't seen yet).
 
 Robert Hardy actually had a side-career playing Churchill in other films, from [100 Days That Saved Britain](https://www.imdb.com/title/tt4400610/) (2015), and cameos in a film about [Sir Arthur Harris](https://en.wikipedia.org/wiki/Sir_Arthur_Harris,_1st_Baronet) as head of RAF Bomber Command in WWII, [Bomber Harris](https://www.imdb.com/title/tt0310777/) (1989), in a dramatization of the Edward/Simpson affair [The Woman He Loved](https://www.imdb.com/title/tt0096460/reference) (1988), and the US mini-series based on Herman Wouk's [War and Rememberence](https://www.imdb.com/title/tt0096725/reference) (1988) !
 
-But I'm really here to writing is about [Hugh Whitemore](https://en.wikipedia.org/wiki/Hugh_Whitemore), the author of the Albert Finney version. He had a fantastic career writing plays, television, and theatrical movies
+But I'm really here to writing is about [Hugh Whitemore](https://en.wikipedia.org/wiki/Hugh_Whitemore), the author of the Albert Finney version on HBOMax. He had a fantastic career writing plays, television, and theatrical movies and was noted for hiw naturalistic dialog. That's all the more 
 
 That's the kind of detailed personal and politcal plotting that shows itself throughout Whitemore's work. All the more remarkable as his writing is never plodding or obviously expository; all the dialogue flows out of the characters so naturally it takes a few viewings to realize the depth of the politics and machinations going on.
 

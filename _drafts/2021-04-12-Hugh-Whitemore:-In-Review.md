@@ -10,7 +10,7 @@ The title is based on Volume 1 of Churchill's six volume [The Second World War](
 
 Some may remember Robert Hardy from Harry Potter, but he's been [hundreds of films](https://www.imdb.com/name/nm0362735/?ref_=fn_al_nm_1) and actually had a side-career playing Churchill in many of them, from [100 Days That Saved Britain](https://www.imdb.com/title/tt4400610/) (2015), and cameos in a film about [Sir Arthur Harris](https://en.wikipedia.org/wiki/Sir_Arthur_Harris,_1st_Baronet) as head of RAF Bomber Command in WWII, [Bomber Harris](https://www.imdb.com/title/tt0310777/) (1989), in a dramatization of the Edward/Simpson affair [The Woman He Loved](https://www.imdb.com/title/tt0096460/reference) (1988), and the US mini-series based on Herman Wouk's [War and Rememberence](https://www.imdb.com/title/tt0096725/reference) (1988) !
 
-But I'm really here to writing is about [Hugh Whitemore](https://en.wikipedia.org/wiki/Hugh_Whitemore), the author of the Albert Finney version on HBOMax. He had a fantastic career writing plays, television, and theatrical movies and was noted for hiw naturalistic dialog. That's all the more 
+But I'm really here to write about [Hugh Whitemore](https://en.wikipedia.org/wiki/Hugh_Whitemore), the author of the Albert Finney version on HBOMax. He had a fantastic career writing plays, television, and theatrical movies and was noted for hiw naturalistic dialog. That's all the more 
 
 That's the kind of detailed personal and politcal plotting that shows itself throughout Whitemore's work. All the more remarkable as his writing is never plodding or obviously expository; all the dialogue flows out of the characters so naturally it takes a few viewings to realize the depth of the politics and machinations going on.
 
